@@ -4,7 +4,7 @@
 
 The purpose of this project is to analyze historical data for COVID-19 infections since 2020. This project's dataset comes from ourworldindata.org
 
- You can get insights on total deaths vrs total infections, infected population by country and infected population percentage forecast.
+You can get insights on total deaths vrs total infections, infected population by country and infected population percentage forecast. I am including the four .xlsx files and the .sql
 
 Link to visualization: https://public.tableau.com/app/profile/jose.franco8225/viz/CovidDashboard2024_17082426873070/Dashboard1.
 
